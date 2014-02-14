@@ -1,0 +1,23 @@
+{
+  "name": "write-to-path",
+  "version": "0.0.0",
+  "description": "Give a path, get a function that will write to it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bclinkinbeard/write-to-path.git"
+  },
+  "keywords": [
+    "fs",
+    "path",
+    "server"
+  ],
+  "author": "Ben Clinkinbeard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bclinkinbeard/write-to-path/issues"
+  }
+}
