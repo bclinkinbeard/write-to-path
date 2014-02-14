@@ -1,6 +1,6 @@
 {
   "name": "write-to-path",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Give a path, get a function that will write to it",
   "main": "index.js",
   "scripts": {
