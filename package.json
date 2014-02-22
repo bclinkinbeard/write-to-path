@@ -1,7 +1,7 @@
 {
   "name": "write-to-path",
   "version": "0.1.0",
-  "description": "Give a path, get a function that will write to it",
+  "description": "Given a file path, return a function that will synchronously write to it",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
