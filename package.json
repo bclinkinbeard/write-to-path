@@ -1,6 +1,6 @@
 {
   "name": "write-to-path",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Given a file path, return a function that will synchronously write to it",
   "main": "index.js",
   "scripts": {
